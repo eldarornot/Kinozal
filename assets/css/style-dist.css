@@ -311,7 +311,7 @@ h2::after {
 }
 
 .film-info__badge {
-  font-size: 0.8em;
+  font-size: 0.75em;
 }
 
 .film-info__badge:not(:last-child) {
@@ -341,10 +341,6 @@ h2::after {
 
 .verticall-slider img {
   width: 100%;
-}
-
-.panel-search {
-  margin: 40px 0 20px 0;
 }
 
 .site-news ul {
